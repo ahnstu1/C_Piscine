@@ -1,0 +1,5 @@
+Credentials cache: API:9113F51F-F1F3-43DA-A569-E20C4ACFEEA8
+        Principal: hahn@42SEOUL.KR
+
+  Issued                Expires               Principal
+Oct 27 09:24:44 2021  Oct 27 19:24:41 2021  krbtgt/42SEOUL.KR@42SEOUL.KR

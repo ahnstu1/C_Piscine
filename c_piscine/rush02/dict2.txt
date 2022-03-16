@@ -1,0 +1,32 @@
+0: yeong
+1: ill
+2: yee
+3: sam
+4: sa
+5: oh
+6: yuk
+7: chill
+8: pal
+9: gu
+10: sip
+11: sip il
+12: sip yee
+13: sip sam
+14: sip sa
+15: sip oh
+16: sip yuk
+17: sip chill
+18: sip pal
+19: sip gu
+20: yeesip
+30: samsip
+40: sasip
+50: ohsip
+60: yuksip
+70: chillsip
+80: palsip
+90: gusip
+100: baek
+1000: cheon
+1000000: baekman
+1000000000: sipeok
